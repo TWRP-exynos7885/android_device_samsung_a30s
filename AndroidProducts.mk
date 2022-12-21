@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_a10.mk
+	$(LOCAL_DIR)/twrp_a30s.mk
 
 COMMON_LUNCH_CHOICES := \
-     twrp_a10-user \
-     twrp_a10-userdebug \
-     twrp_a10-eng
+     twrp_a30s-user \
+     twrp_a30s-userdebug \
+     twrp_a30s-eng
